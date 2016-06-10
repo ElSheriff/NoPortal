@@ -1,0 +1,10 @@
+# .
+# .                     NoPortal by ElSheriff 
+# .
+# .                Read the tutorial of the config at: 
+# .     https://www.spigotmc.org/resources/noportal-1-7-1-10.24642/
+# .
+options:
+  permission: noportal.enter
+  portal-enter: true
+  portal-create: true

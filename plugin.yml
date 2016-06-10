@@ -1,0 +1,13 @@
+main: net.paincraft.NoPortal.Main
+version: 1.0.0
+author: ElSheriff
+name: NoPortal
+website: www.paincraft.net
+description: With this plugin, controls the portals to your liking.
+commands:
+  noportal:
+    description: Information of the plugin - Reloads the config file
+permissions:
+    noportal.command.reload:
+      description: Permission for reload the config.
+      default: op
